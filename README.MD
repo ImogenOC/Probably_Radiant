@@ -1,2 +1,2 @@
 ##Built with love by ImogenOC
-##For MAtthew-Spencer (AkA: Radiant )
+##For Matthew-Spencer (AkA: Radiant )
